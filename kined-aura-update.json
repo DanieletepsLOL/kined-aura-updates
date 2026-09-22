@@ -1,6 +1,7 @@
 {
   "updateRequired": true,
-  "minimumSupportedVersion": "0.0.0",
-  "downloadUrl": "",
-  "message": ""
+  "minimumSupportedVersion": "1.0.0",
+  "downloadUrl": "https://github.com/TU-USUARIO/kined-aura/releases/latest",
+  "message": "This beta release has been superseded by the stable version of Kined AURA."
 }
+
