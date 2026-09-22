@@ -1,6 +1,6 @@
 {
-  "updateRequired": true,
-  "minimumSupportedVersion": "1.0.1",
-  "downloadUrl": "https://github.com/DanieletepsLOL/kined-aura/releases/latest",
-  "message": "This beta release has been superseded by the stable version of Kined AURA."
+  "updateRequired": false,
+  "minimumSupportedVersion": "0.0.0",
+  "downloadUrl": "",
+  "message": ""
 }
