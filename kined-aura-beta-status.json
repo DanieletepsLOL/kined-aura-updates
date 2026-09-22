@@ -1,5 +1,5 @@
 {
-  "betaShutdown": false,
+  "betaShutdown": true,
   "betaShutdownMessage": "This beta version is no longer available due to security and licensing reasons; we apologize for the inconvenience.",
   "betaShutdownUrl": "https://kinedstore.com"
 }
